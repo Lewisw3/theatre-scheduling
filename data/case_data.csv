@@ -1,0 +1,26 @@
+CaseID,ConsultantID,Procedure,Speciality,Median Duration,TargetDeadline
+1,11,Cataract Surgery,Ophthalmology,45,2020-06-07
+2,11,Vitrectomy ,Ophthalmology,70,2020-07-17
+3,11,Cataract Surgery,Ophthalmology,45,2020-06-05
+4,11,Cataract Surgery,Ophthalmology,45,2020-06-28
+5,11,Cataract Surgery,Ophthalmology,45,2020-07-22
+6,11,Cataract Surgery,Ophthalmology,45,2020-07-03
+7,11,Cataract Surgery,Ophthalmology,45,2020-07-03
+8,11,Eyelid Lesion Excision,Ophthalmology,30,2020-06-11
+9,11,Vitrectomy ,Ophthalmology,70,2020-07-04
+10,11,Cataract Surgery,Ophthalmology,45,2020-07-14
+11,11,Cataract Surgery,Ophthalmology,45,2020-07-06
+12,11,Cataract Surgery,Ophthalmology,45,2020-07-16
+13,11,Trabeculectomy,Ophthalmology,100,2020-07-11
+14,11,Vitrectomy ,Ophthalmology,70,2020-06-15
+15,11,Vitrectomy ,Ophthalmology,70,2020-06-20
+16,11,Cataract Surgery,Ophthalmology,45,2020-06-18
+17,11,Cataract Surgery,Ophthalmology,45,2020-07-20
+18,11,Trabeculectomy,Ophthalmology,100,2020-07-04
+19,11,Eyelid Skin Graft,Ophthalmology,120,2020-06-15
+20,11,Cataract Surgery,Ophthalmology,45,2020-07-13
+21,11,Cataract Surgery,Ophthalmology,45,2020-07-04
+22,11,Cataract Surgery,Ophthalmology,45,2020-06-28
+23,11,Cataract Surgery,Ophthalmology,45,2020-07-22
+24,11,Cataract Surgery,Ophthalmology,45,2020-07-06
+25,11,Vitrectomy ,Ophthalmology,70,2020-06-08
