@@ -1,0 +1,5 @@
+SessionID,Date,Start,End,Duration,ConsultantID,Specialty
+1001,03/06/2020,08:30:00,18:00:00,570,11,Ophthalmology
+1002,10/06/2020,08:30:00,18:00:00,570,11,Ophthalmology
+1003,17/06/2020,08:30:00,18:00:00,570,11,Ophthalmology
+1004,25/06/2020,08:30:00,13:00:00,270,11,Ophthalmology
